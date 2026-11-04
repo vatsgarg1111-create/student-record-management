@@ -1,0 +1,7 @@
+# Compiled files
+*.exe
+*.out
+student_record
+
+# Saved data
+students.dat
